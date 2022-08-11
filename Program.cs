@@ -10,8 +10,8 @@
     return max;
 }
 
-a = 7;
-b = 2;
+int a = 7;
+int b = 2;
 
 Console.Writeline(Compare(a,b));
 
