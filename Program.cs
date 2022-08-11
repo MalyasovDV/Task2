@@ -13,5 +13,5 @@
 int a = 7;
 int b = 2;
 
-Console.WriteLine(("").a, " and ", ("").b, ":", "max = ", Compare(a,b));
+Console.WriteLine(ToString(a), " and ", ToString(b), ":", "max = ", Compare(a,b));
 
