@@ -13,5 +13,5 @@
 int a = 7;
 int b = 2;
 
-Console.Writeline(Compare(a,b));
+Console.WriteLine(Compare(a,b));
 
