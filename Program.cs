@@ -5,7 +5,7 @@
     if (a > b)
         max = a;
     else
-        max = b
+        max = b;
     
     return max;
 }
